@@ -161,8 +161,6 @@ The dashboard shows higher revenue in the early months of the year with gradual 
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![Global E-Commerce Sales & Profit Intelligence Dashboard](dashboard.png)
 
 ## Key Insights
@@ -199,3 +197,4 @@ Power BI dashboard development for visualization
 ## Author
 
 Nagendra V Sagar
+
